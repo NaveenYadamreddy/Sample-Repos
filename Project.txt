@@ -1,0 +1,3 @@
+We are going create a project.
+
+The Project is totally related to the AWS.
